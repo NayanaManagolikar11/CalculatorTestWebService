@@ -7,3 +7,6 @@ It can serve as backend for a web app CalculatorTest2. This returns calculator r
 
 ## Screen shot of saved calculator results in SQL server database.
 ![CalculatorDatabaseEntries](https://user-images.githubusercontent.com/72743679/110258480-b7300200-7f9a-11eb-829b-b4ef984336e3.JPG)
+
+## CalculatorDataAccess :
+A web service that contains the ADO.NET Entity Data Model that retrieves the data from the SQL SERVER.
